@@ -1,6 +1,5 @@
 import PostContainer from '@/components/PostContainer'
 import React from 'react'
-import Link from 'next/link'
 import { getPostMetaData } from '@/utils/GetMetaData'
 
 
