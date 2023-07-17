@@ -1,3 +1,2 @@
-ar_user_manual.md
 buymeatoffee.md
 arcon.md
