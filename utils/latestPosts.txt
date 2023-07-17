@@ -1,1 +1,3 @@
+hardhat_token_in_2_mins.md
+share_files_through_wifi.md
 theme_toggle.md
