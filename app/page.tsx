@@ -20,13 +20,7 @@ export default function Home() {
         <Link href="/about"><span className='flex items-center md:text-lg text-sm font-semibold hover:underline underline-offset-8 hover:scale-95 transition ease-in-out cursor-pointer space-x-1'><p>more about me</p> <AiOutlineArrowRight size={24} /></span></Link>
         </div>
       </div>
-      <Image
-      className="rounded-full p-2"
-        src="/photo.jpeg"
-        width={500}
-        height={500}
-        alt="Picture of the author"
-      />
+      <div className=" w-44"></div>
       </div>
       </div>
       <LatestPost />
