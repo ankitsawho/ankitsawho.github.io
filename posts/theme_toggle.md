@@ -1,6 +1,6 @@
 ---
 title: "Switch between Light and Dark Theme in nextjs 13 app"
-subtitle: "Switch between Light and Dark Theme in nextjs 13 app, Switch between Light and Dark Theme in nextjs 13 app, Switch between Light and Dark Theme in nextjs 13 app, Switch between Light and Dark Theme in nextjs 13 app"
+subtitle: "Switch between Light and Dark Theme in nextjs 13 app"
 date: "May 09, 2023"
 ---
 
