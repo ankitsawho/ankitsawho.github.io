@@ -22,7 +22,7 @@ export default function Home() {
       </div>
       <Image
       className="rounded-full p-2"
-        src="/pic.jpeg"
+        src="/photo.jpeg"
         width={500}
         height={500}
         alt="Picture of the author"
