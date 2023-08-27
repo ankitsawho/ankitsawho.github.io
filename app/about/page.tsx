@@ -17,8 +17,8 @@ function About() {
             </div>
           </div>
           <Image
-            className="rounded-full p-2"
-            src="/photo.jpeg"
+            className=" rounded-full shadow-xl"
+            src="/photo.png"
             width={500}
             height={500}
             alt="Picture of the author"
