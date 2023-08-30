@@ -24,6 +24,7 @@ export default function RootLayout({
           {children}
           <Footer />
         </Provider>
+        <script src="https://s.pageclip.co/v1/pageclip.js"></script>
       </body>
     </html>
   )
